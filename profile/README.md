@@ -1,6 +1,6 @@
 # October
 
-We make tools that let AI do real things for you.
+Welcome to October, a visual agent runtime and agents infrastructure company.
 
 Also from us:
 
